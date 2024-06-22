@@ -31,9 +31,8 @@ Model eğitimi: Modelin eğitilmesi ve doğrulanması.
 📈 Sonuçlar
 Modelin eğitim ve doğrulama sürecine ait bazı metrikler:
 
-Epoch	Eğitim Doğruluğu	Eğitim Kaybı	Doğrulama Doğruluğu	Doğrulama Kaybı
-1	0.3377	1.3725	0.3311	1.3616
-20	0.6737	0.7968	0.6730	0.8090
+Accuracy, Precision, Recall, F1 Score
+
 👥 Katkıda Bulunanlar
 Yasemin Başkaya - yasemin.baskaya19@gmail.com
 
